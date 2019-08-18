@@ -1,0 +1,35 @@
+.jumbo_one{
+    background-image: url("https://images.unsplash.com/photo-1485463969733-3b3853b9d1bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    
+}
+
+
+.jumbo_two{
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+}
+
+.laptop {
+    height: 220px;
+    width: 250px;
+    
+}
+
+h6{
+    font-size: 80%;
+    color: gray;
+}
+
+.white{
+    color:white;
+}
+
+.travel{
+    height: 90%;
+    width: 100%;
+}
