@@ -1,8 +1,8 @@
 .jumbo_one{
-    background-image: url("https://images.unsplash.com/photo-1485463969733-3b3853b9d1bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80");
+    background-image: url("https://images.unsplash.com/photo-1496765283645-8a37c7999272?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center; 
+    background-position: center bottom; 
     
 }
 
@@ -26,10 +26,24 @@ h6{
 }
 
 .white{
-    color:white;
+    color:black;
 }
 
 .travel{
     height: 90%;
     width: 100%;
+}
+
+.computers{
+    height: 80%;
+    width: 80%;
+}
+
+.reduce-size{
+    font-size: 90%;
+}
+
+
+.reduce-size2{
+    font-size: 80%;
 }
