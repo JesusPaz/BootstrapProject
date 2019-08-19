@@ -47,3 +47,8 @@ h6{
 .reduce-size2{
     font-size: 80%;
 }
+
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
